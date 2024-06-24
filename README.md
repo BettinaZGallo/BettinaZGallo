@@ -1,5 +1,12 @@
-## Hi there 👋
+## Bem vindo ao meu perfil 👋
 
+Olá, sou a Bettina e sou estudante de tecnologia 
+
+Estou fazendo um curso de progamação no p5js com linguagem javascript
+
+Criei essa conta no GitHub com  intuito de guardar os meus futuros projetos
+
+bettinazgallo@gmail.com
 <!--
 **BettinaZGallo/BettinaZGallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
